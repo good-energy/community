@@ -26,9 +26,9 @@ Beispiele für inakzeptables Verhalten sind:
 
 ## Durchsetzungspflichten
 
-Arbeitsgruppenleiter sind für die Klärung und Durchsetzung unserer Standards für akzeptables Verhalten verantwortlich und ergreifen angemessene und faire Korrekturmaßnahmen als Reaktion auf jedes Verhalten, das sie für unangemessen, bedrohlich, beleidigend oder schädlich halten.
+Vorstand und Arbeitsgruppenleiter sind für die Klärung und Durchsetzung unserer Standards für akzeptables Verhalten verantwortlich und ergreifen angemessene und faire Korrekturmaßnahmen als Reaktion auf jedes Verhalten, das sie für unangemessen, bedrohlich, beleidigend oder schädlich halten.
 
-Arbeitsgruppenleiter haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Änderungen, Probleme und andere Beiträge, die nicht mit diesem Verhaltenskodex übereinstimmen, zu entfernen, zu bearbeiten oder abzulehnen, und werden gegebenenfalls Gründe für Moderationsentscheidungen mitteilen.
+Vorstand und Arbeitsgruppenleiter haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Änderungen, Probleme und andere Beiträge, die nicht mit diesem Verhaltenskodex übereinstimmen, zu entfernen, zu bearbeiten oder abzulehnen, und werden gegebenenfalls Gründe für Moderationsentscheidungen mitteilen.
 
 ## Umfang
 
