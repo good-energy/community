@@ -42,13 +42,13 @@ Alle Beiratsmitglieder sind verpflichtet, die Privatsphäre und Sicherheit des M
 
 ## Durchsetzungsrichtlinien
 
-Die Arbeitsgruppenleiter und Stiftungsvorstand werden folgende Richtlinien befolgen, um die Konsequenzen für jede Handlung zu bestimmen, die ihrer Meinung nach gegen diesen Verhaltenskodex verstößt:
+Vorstand und Arbeitsgruppenleiter werden folgende Richtlinien befolgen, um die Konsequenzen für jede Handlung zu bestimmen, die ihrer Meinung nach gegen diesen Verhaltenskodex verstößt:
 
 ### 1. Korrektur
 
 **Auswirkungen auf die Gemeinschaft**: Verwendung unangemessener Sprache oder anderes Verhalten, das in der Gemeinschaft als unprofessionell oder unwillkommen gilt.
 
-**Konsequenz**: Eine private, schriftliche Warnung von Gemeindevorstehern, die Klarheit über die Art des Verstoßes schafft und erklärt, warum das Verhalten unangemessen war. Es kann eine öffentliche Entschuldigung verlangt werden.
+**Konsequenz**: Eine private, schriftliche Warnung von Vorstand oder Arbeitsgruppenleiter, die Klarheit über die Art des Verstoßes schafft und erklärt, warum das Verhalten unangemessen war. Es kann eine öffentliche Entschuldigung verlangt werden.
 
 ### 2. Warnung
 
