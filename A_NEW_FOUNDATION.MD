@@ -1,5 +1,9 @@
 # Ein neues Fundament
 
+Der folgende Vorschlag skizziert ein neues Fundaments für klimaschutz+. Er deckt eine Reihe an Themen ab, die die Zukunft des Projekts stark beeinflussen und ist als Grundlage für eine Diskussion mit allen Mitwirkenden, Unterstütztenden sowie am Projekt Interessierten gedacht. 
+
+## Zielsetzung
+
 Es ist über eine Dekade her, dass die Klimaschutz+ Stiftung ihre Arbeit aufnahm. Über die Jahre wurden von dieser eine Reihe an Mechanismen entwickelt, die es Bürgerinnen und Bürgern ermöglichen die Energiewende voranzutreiben und mittels der Erträgen gemeinnützige Projekte vor Ort zu fördern. Zwar bauen alle Mechanismen  auf den selben Klimaschutz- und Nachhaltigkeitsfonds auf, jedoch erhielten sie jeweils eigene Brands, Webauftritte,  Kommunikationskanäle sowie lose zusammenhängende Datenbanken. Und während sich tausende Menschen aus dem ganzen Bundesgebiet per Spende an den Klimaschutz- und Nachhaltigkeitsfonds beteiligen, blieb die ehrenamtliche Arbeit im Hintergrund bisher auf wenige Hände begrenzt. Diese wird für die Verstetigung sowie das weiter Wachstum zunehmend zur Herausforderung. Daher ist es an der Zeit **Klimaschutz+** auf ein neues Fundament zustellen.
 
 ## Offene Gemeinschaft
